@@ -67,3 +67,27 @@ a:focus {
   text-align: center; 
   width: 600px;
 }
+
+h1 {
+  color: #5F4B4E;
+  font-size: 79px;
+  font-weight: 100;
+  width: 800px;
+  position: relative;
+  left: -100px;
+  letter-spacing: 4px;
+  line-height: 79px;
+  margin: 0px 0 50px 0;
+  text-shadow: 0 1px 0 #fff;
+}
+
+p {
+  color: #A49796;
+  margin: 20px 0;
+  line-height: 1.6;
+  margin-left: auto;
+  margin-right: auto;
+}
+p > span {
+  color: #CB7419;
+}
