@@ -32,3 +32,12 @@ html {
      -moz-box-sizing: border-box;
           box-sizing: border-box;
 }
+
+body {
+  font-family: "Open Sans", sans-serif;
+  font-size: 14px;
+  background-color: #E7E2DE;
+  color: #333;
+  line-height: 1.42857143;
+  margin: 0;
+}
