@@ -91,3 +91,12 @@ p {
 p > span {
   color: #CB7419;
 }
+
+::-moz-selection {
+  color: #E7E2DE;
+  background: #5F4B4E;
+}
+::selection {
+  color: #E7E2DE;
+  background: #5F4B4E;
+}
