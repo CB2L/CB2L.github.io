@@ -41,3 +41,23 @@ body {
   line-height: 1.42857143;
   margin: 0;
 }
+
+a {
+  color: #5F4B4E;
+  text-decoration: none;
+  -webkit-transition: color 440ms ease-in-out 004ms;
+     -moz-transition: color 380ms ease-in-out 004ms;
+      -ms-transition: color 380ms ease-in-out 004ms;
+       -o-transition: color 380ms ease-in-out 004ms;
+          transition: color 380ms ease-in-out 004ms;
+}
+a:hover,
+a:focus {
+  color: #CB7419;
+  text-decoration: underline;
+}
+a:focus {
+  outline: thin dotted;
+  outline: 5px auto -webkit-focus-ring-color;
+  outline-offset: -2px;
+}
