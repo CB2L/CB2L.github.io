@@ -1,0 +1,19 @@
+{
+  "Name": "CB2L®",
+  "HomePage": "http://CB2L.github.io/",
+  "Version": "1.0.0",
+  "Author": "Prabhat Kumar",
+  "License": "Apache",
+  "Repository": {
+    "type": "git",
+    "url": "https://github.com/CB2L/CB2L.github.io.git"
+  },
+  "Administrator": {
+    "Computational Biology and Bioinformatics Laboratory": "https://github.com/CB2L",
+    "Sequømics Corporation": "https://github.com/sequomics"
+  },
+  "Developer": {
+    "Prabhat Kumar": "https://github.com/iamprabhat",
+    "Emma Jörenberg": "https://github.com/jorenberg"
+  }
+}
